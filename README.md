@@ -1,4 +1,4 @@
-Projeto que fiz acompanhando as aula do Curso em Video, no curso "Javascript [40 Horas]". Foi usado conhecimentos de functions e conditions em JS, além do HTML e CSS. 
+Projeto que fiz acompanhando as aulas do Curso em Video, no curso "Javascript [40 Horas]". Foram usados conhecimentos de functions e conditions em JS, além do HTML e CSS. 
 A ideia era criar uma página que logo que é carregada, o JS executa de acordo com o horário atual na máquina do cliente e com isso mostra um tipo de layout com cores, texto e imagem diferentes.
 Para testes de layout acrescentei uma linha "var hora = x" no script para que coloque a hora do dia desejada (em números inteiros).
 
